@@ -1,2 +1,5 @@
 # Ex-06-Book-Cover-Design
-namme= suchitra
+Name: Suchitra Nath
+Ref no: 23000325
+Dept : IT
+
