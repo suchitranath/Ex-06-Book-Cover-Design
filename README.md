@@ -150,8 +150,7 @@ img {
 ```
 
 # Output:
-
-
+![Screenshot 2023-12-15 183116](https://github.com/suchitranath/Ex-06-Book-Cover-Design/assets/145742631/2c56b766-8583-48ae-974d-0d2baa04eba0)
 
 # Result:
 Thus a website to display the cover page design of a book was successfully created.
